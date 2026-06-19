@@ -54,7 +54,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 
 ## 📈 LeetCode Profile
 
-[![Himanshu's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hy180444&theme=dark)](https://leetcode.com/u/hy180444)
+[![Himanshu's LeetCode Stats](https://leetcard.jacoblin.cool/hy180444?theme=dark&font=Syne&ext=activity)](https://leetcode.com/u/hy180444)
 
 ---
 
