@@ -120,4 +120,20 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
