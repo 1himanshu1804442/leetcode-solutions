@@ -83,6 +83,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,4 +160,5 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
