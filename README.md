@@ -139,6 +139,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0104-maximum-depth-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -149,6 +150,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0104-maximum-depth-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -158,6 +160,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0100-same-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
@@ -168,6 +171,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0104-maximum-depth-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
