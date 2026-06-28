@@ -65,6 +65,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -77,6 +78,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -215,4 +217,8 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
