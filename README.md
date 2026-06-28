@@ -71,6 +71,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -123,10 +124,12 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |
