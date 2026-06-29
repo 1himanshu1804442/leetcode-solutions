@@ -241,5 +241,6 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
