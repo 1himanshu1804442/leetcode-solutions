@@ -73,6 +73,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -114,6 +115,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0076-minimum-window-substring](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
