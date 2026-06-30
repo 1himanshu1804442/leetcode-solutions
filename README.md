@@ -146,6 +146,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -168,6 +169,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -196,6 +198,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -255,6 +258,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
