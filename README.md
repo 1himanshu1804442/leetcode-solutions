@@ -70,6 +70,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -205,6 +206,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0662-maximum-width-of-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
@@ -265,6 +267,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0994-rotting-oranges](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Database
 |  |
