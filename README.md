@@ -85,6 +85,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -260,6 +261,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0022-generate-parentheses](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0542-01-matrix) |
+| [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -312,6 +314,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0701-insert-into-a-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -337,6 +340,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
@@ -344,9 +348,15 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0210-course-schedule-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
