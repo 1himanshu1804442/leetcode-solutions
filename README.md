@@ -75,6 +75,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -198,6 +199,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0733-flood-fill](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
@@ -217,6 +219,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
@@ -282,6 +285,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0542-01-matrix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Database
 |  |
@@ -317,6 +321,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | ------- |
 | [0130-surrounded-regions](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
