@@ -280,6 +280,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0124-binary-tree-maximum-path-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -377,6 +378,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0743-network-delay-time](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -385,10 +387,12 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0207-course-schedule](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
