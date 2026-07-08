@@ -115,6 +115,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1189-maximum-number-of-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
