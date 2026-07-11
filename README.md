@@ -236,6 +236,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1376-time-needed-to-inform-all-employees](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1376-time-needed-to-inform-all-employees](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
@@ -397,6 +399,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1319-number-of-operations-to-make-network-connected](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -421,6 +424,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
