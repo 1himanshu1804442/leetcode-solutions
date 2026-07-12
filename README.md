@@ -121,6 +121,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -303,6 +304,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0198-house-robber) |
@@ -454,4 +456,8 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
