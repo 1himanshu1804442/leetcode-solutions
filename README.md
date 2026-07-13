@@ -342,6 +342,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Matrix
 |  |
