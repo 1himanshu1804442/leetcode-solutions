@@ -76,6 +76,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0200-number-of-islands](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -165,6 +166,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -175,6 +177,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -396,6 +399,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
