@@ -156,6 +156,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0022-generate-parentheses](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0127-word-ladder) |
+| [1143-longest-common-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -326,6 +327,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0494-target-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
