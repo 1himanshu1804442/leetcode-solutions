@@ -158,6 +158,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0022-generate-parentheses](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0516-longest-palindromic-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -327,6 +328,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0322-coin-change](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
