@@ -100,6 +100,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1301-number-of-paths-with-max-score](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1631-path-with-minimum-effort](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -130,6 +131,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -182,6 +184,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
