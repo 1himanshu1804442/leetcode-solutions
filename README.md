@@ -105,6 +105,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1331-rank-transform-of-an-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -209,6 +210,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1048-longest-string-chain](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -384,6 +386,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1143-longest-common-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
