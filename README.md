@@ -189,6 +189,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0516-longest-palindromic-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -465,6 +466,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -560,6 +562,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [1106-parsing-a-boolean-expression](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 ## Simulation
 |  |
 | ------- |
