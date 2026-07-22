@@ -67,6 +67,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | ------- |
 | [0001-two-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -517,6 +518,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0283-move-zeroes) |
