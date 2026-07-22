@@ -70,6 +70,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0036-valid-sudoku](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0120-triangle) |
@@ -224,6 +225,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -506,6 +508,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
