@@ -102,6 +102,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0494-target-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -151,6 +152,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -196,6 +198,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
