@@ -80,6 +80,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0130-surrounded-regions](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0198-house-robber) |
@@ -143,6 +144,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -217,6 +219,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -226,6 +229,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -426,6 +430,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
