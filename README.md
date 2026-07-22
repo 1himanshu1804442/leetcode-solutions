@@ -65,6 +65,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0039-combination-sum) |
@@ -135,6 +136,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
