@@ -77,6 +77,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -403,6 +404,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0070-climbing-stairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
