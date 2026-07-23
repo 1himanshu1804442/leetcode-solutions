@@ -78,6 +78,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0063-unique-paths-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -251,6 +252,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0018-4sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
@@ -545,6 +547,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
