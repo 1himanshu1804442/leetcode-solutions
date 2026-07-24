@@ -105,6 +105,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0416-partition-equal-subset-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -461,15 +462,18 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -518,6 +522,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -655,5 +660,10 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
