@@ -1,19 +1,29 @@
 class Solution {
     public int uniqueXorTriplets(int[] nums) {
         int n=nums.length;
-        HashSet<Integer> s1=new HashSet<>();
+        boolean haspair[]=new boolean[2048];
+        boolean istriplet[]=new boolean[2048];
+       
         for(int i=0;i<n;i++){
             for(int j=i;j<n;j++){
-                s1.add(nums[i]^nums[j]);
+               haspair[nums[i]^nums[j]]=true;
             }
         }
-        HashSet<Integer> s2=new HashSet<>();
-        for(int k:s1){
-            for(int num:nums){
-                s2.add(k^num);
+      
+        for(int num:nums){
+            for(int i=0;i<2048;i++){
+                if(haspair[i]){
+                    istriplet[num^i]=true;
+                }
             }
         }
-        return s2.size();
+        int cnt=0;
+        for(boolean present:istriplet){
+            if(present){
+                cnt++;
+            }
+        }
+        return cnt;
         
     }
 }
