@@ -91,6 +91,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0130-surrounded-regions](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -525,6 +526,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
