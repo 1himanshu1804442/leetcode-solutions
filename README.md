@@ -120,6 +120,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0733-flood-fill](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -540,6 +541,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0701-insert-into-a-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1631-path-with-minimum-effort](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
