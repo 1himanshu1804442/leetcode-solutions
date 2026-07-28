@@ -13,7 +13,8 @@ class Solution {
                 high=mid-1;
             }
         }
-        return low+k;
+        if(high<0)return k;
+        return arr[high]+(k-(arr[high]-(high+1)));
         
     }
 }
