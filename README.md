@@ -105,6 +105,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0312-burst-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -225,6 +226,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -298,6 +300,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0044-wildcard-matching](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -458,6 +461,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0312-burst-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -547,6 +551,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
