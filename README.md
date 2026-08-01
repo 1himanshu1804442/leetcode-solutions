@@ -1,8 +1,10 @@
 # 🏆 LeetCode Solutions
 
+> **✨ Milestone Achieved:** Knight Badge | Top 5.69% Globally | 430+ Java Solutions
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hy180444)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-500+-brightgreen?style=for-the-badge)](https://leetcode.com/u/hy180444)
-[![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1901-blue?style=for-the-badge)](https://leetcode.com/u/hy180444)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-430+-brightgreen?style=for-the-badge)](https://leetcode.com/u/hy180444)
+[![Contest Rating](https://img.shields.io/badge/Global%20Rank-Top%205.69%25-blue?style=for-the-badge)](https://leetcode.com/u/hy180444)
 
 My solutions to LeetCode problems, primarily in **Java**. Automatically synced via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
 
@@ -12,33 +14,25 @@ My solutions to LeetCode problems, primarily in **Java**. Automatically synced v
 
 | Metric | Value |
 |---|---|
-| **Total Solved** | 500+ (502) |
-| **Easy** | 136 |
-| **Medium** | 293 |
-| **Hard** | 73 |
-| **Contest Rating** | 1,901 (Top 4.55%) |
-| **Global Rank** | 38,674 / 875,878 |
-| **Max Streak** | 155 days |
-| **Active Days** | 276 |
+| **Total Solved** | 430+ |
 | **Primary Language** | Java |
+| **Global Rank** | Top 5.69% |
+| **Achievement** | Knight Badge |
 
 ---
 
-## 🗂️ Topics Covered
+## 🗂️ Algorithm Pattern Index
 
-| Category | Key Problems |
-|---|---|
-| **Arrays & Hashing** | Two Sum, Group Anagrams, Top K Frequent |
-| **Two Pointers** | 3Sum, Container With Most Water, Trapping Rain Water |
-| **Sliding Window** | Longest Substring Without Repeating, Minimum Window Substring |
-| **Stack** | Valid Parentheses, Daily Temperatures, Largest Rectangle in Histogram |
-| **Binary Search** | Search in Rotated Array, Median of Two Sorted Arrays |
-| **Trees** | Invert Binary Tree, Validate BST, Diameter of Binary Tree |
-| **Graphs** | Number of Islands, Course Schedule, Word Ladder |
-| **Dynamic Programming** | Climbing Stairs, Longest Common Subsequence, Edit Distance |
-| **Backtracking** | Subsets, Permutations, N-Queens |
-| **Bit Manipulation** | Single Number, Counting Bits, Reverse Bits |
-| **Monotonic Stack** | Next Greater Element, Stock Span, Trapping Rain Water |
+Mastering algorithm patterns is critical for writing clean, optimized Java solutions. By identifying the underlying pattern, you avoid brittle ad-hoc logic, reduce time complexity, and produce readable, idiomatic code.
+
+| Pattern | Why It Matters for Java Implementations | Key Problems |
+|---|---|---|
+| **Sliding Window** | Avoids nested loops (O(n²) -> O(n)) for subarray/substring problems. Perfect for optimizing `String` or `char[]` manipulations in Java. | Longest Substring Without Repeating, Minimum Window Substring |
+| **Two Pointers** | Minimizes space complexity (O(1)) and provides elegant solutions for sorted arrays and linked lists without extra collections overhead. | 3Sum, Container With Most Water, Trapping Rain Water |
+| **Monotonic Stack** | Essential for O(n) solutions to "next greater element" problems. Java's `ArrayDeque` is the ideal non-synchronized, performant choice here. | Next Greater Element, Stock Span, Trapping Rain Water |
+| **Dynamic Programming** | Trades space for time by memoizing subproblems. Crucial for optimizing recursive tree explorations into efficient tabulated arrays. | Climbing Stairs, Longest Common Subsequence, Edit Distance |
+| **Graph BFS/DFS** | Forms the backbone of connectivity and traversal problems. Leveraging Java's `Queue` for BFS and recursion/`Stack` for DFS handles complex topologies efficiently. | Number of Islands, Course Schedule, Word Ladder |
+| **Binary Search** | Drops O(n) to O(log n) for sorted data. Mastering off-by-one errors and loop invariants here is key to robust Java algorithms. | Search in Rotated Array, Median of Two Sorted Arrays |
 
 ---
 
