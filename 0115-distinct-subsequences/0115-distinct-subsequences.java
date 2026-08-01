@@ -9,11 +9,11 @@ class Solution {
         for(int i=1;i<=len1;i++){
             for(int j=1;j<=len2;j++){
                 if(s.charAt(i-1)==t.charAt(j-1)){
-                    dp[i][j]=dp[i-1][j-1]+dp[i-1][j];
+                    dp[i][j]=dp[i-1][j-1]+dp[i-1][j];// here we use the pick and not pick method 
 
                 }
                 else{
-                    dp[i][j]=dp[i-1][j];
+                    dp[i][j]=dp[i-1][j];//here only not pick 
                 }
             }
         }
