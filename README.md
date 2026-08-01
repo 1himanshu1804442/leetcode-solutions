@@ -109,6 +109,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0416-partition-equal-subset-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -202,6 +203,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0070-climbing-stairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -474,6 +476,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0368-largest-divisible-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -702,6 +705,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 ## Simulation
 |  |
@@ -718,4 +722,8 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
