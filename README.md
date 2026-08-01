@@ -254,6 +254,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1106-parsing-a-boolean-expression](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -485,6 +486,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1143-longest-common-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
