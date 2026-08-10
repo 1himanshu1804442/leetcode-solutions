@@ -209,6 +209,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1140-stone-game-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -509,6 +510,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -752,6 +754,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0877-stone-game](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -768,8 +771,18 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
