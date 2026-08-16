@@ -149,6 +149,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2498-frog-jump-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2498-frog-jump-ii) |
@@ -219,6 +220,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -293,6 +295,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2029-stone-game-ix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -338,6 +341,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2498-frog-jump-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -787,6 +791,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [1140-stone-game-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -804,15 +809,18 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | ------- |
 | [1140-stone-game-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
