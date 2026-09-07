@@ -298,6 +298,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0132-palindrome-partitioning-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0316-remove-duplicate-letters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
@@ -556,6 +557,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
