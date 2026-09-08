@@ -889,4 +889,12 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
