@@ -19,13 +19,9 @@ class Solution {
                 nums[index]=temp;
                 break;
             }
-
-
         }
         reverse(nums,index+1,n-1);
-       
-
-
+        
     }
     public void reverse(int nums[],int start,int end){
         int left=start;
@@ -36,7 +32,7 @@ class Solution {
             nums[right]=temp;
             left++;
             right--;
+
         }
     }
-
 }
