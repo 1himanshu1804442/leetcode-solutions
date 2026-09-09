@@ -3,21 +3,21 @@ class Solution {
         Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
         int start=intervals[0][0];
         int end=intervals[0][1];
-        List<int[]> ans=new ArrayList<>();
         int n=intervals.length;
+        List<int[]> list=new ArrayList<>();
         for(int i=1;i<n;i++){
-            int nextstart=intervals[i][0];
-            int nextend=intervals[i][1];
-            if(end>=nextstart){
-                end=Math.max(end,nextend);
+            int starti=intervals[i][0];
+            int endi=intervals[i][1];
+            if(end>=starti){
+                end=Math.max(end,endi);
             }else{
-                ans.add(new int[]{start,end});
-                start=nextstart;
-                end=nextend;
+                list.add(new int[]{start,end});
+                start=starti;
+                end=endi;
             }
-
         }
-        ans.add(new int[]{start,end});
-        return ans.toArray(new int[ans.size()][]);
+        list.add(new int[]{start,end});
+        return list.toArray(new int[list.size()][]);
+        
     }
 }
