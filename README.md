@@ -917,4 +917,5 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
