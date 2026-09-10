@@ -913,4 +913,8 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
