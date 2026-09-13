@@ -119,6 +119,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0733-flood-fill](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -641,6 +642,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0733-flood-fill](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
