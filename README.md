@@ -235,6 +235,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0062-unique-paths](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0368-largest-divisible-subset](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -935,5 +936,6 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
