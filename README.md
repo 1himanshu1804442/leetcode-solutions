@@ -125,6 +125,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0877-stone-game](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -294,6 +295,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0003-longest-substring-without-repeating-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -307,6 +309,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -734,6 +737,7 @@ Every accepted LeetCode submission is **automatically pushed** to this repositor
 | [0704-binary-search](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/1himanshu1804442/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
